@@ -58,7 +58,7 @@ export default function ButtonAppBar() {
                 .then(function (response) {
                     //handle success
                     console.log(response);
-                    alert("sucsess")
+                    alert("success")
                 })
                 .catch(function (response) {
                     //handle error
